@@ -1,0 +1,1 @@
+# Aplic._De_Cloud_Iot_e_Ind-stria_4.0_em_Python
